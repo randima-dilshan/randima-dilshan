@@ -58,7 +58,7 @@ er
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
 </tr>
-</table>
+</table><br>
 
  
  <a href="#" target="_blank"> 
