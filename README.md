@@ -10,15 +10,13 @@
 <img src="https://img.shields.io/github/stars/randima-dilshan?style=social"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=randima-dilshan&theme=darkhub&no-frame=true&margin-w=10"/>
-</p>
+
 
 ---
 
 <!-- ABOUT + IMAGE (SIDE BY SIDE WITHOUT TABLE) -->
 <p>
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif" width="500"/>
+
 
 <h3>👨‍💻 About Me</h3>
 
