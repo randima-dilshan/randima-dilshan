@@ -16,6 +16,8 @@
 
 <!-- ABOUT + IMAGE (SIDE BY SIDE WITHOUT TABLE) -->
 <p>
+<img align="right" src="https://i.pinimg.com/originals/61/e2/e5/61e2e59a077a3375e4f7f72939750ca9.gif" width="400"/>
+
 
 
 <h3>👨‍💻 About Me</h3>
@@ -29,39 +31,15 @@
 
 <h3>📫 Contact</h3>
 
-- 📧 randimadilshaninfo@yahoo.com  
+- 📧 randima@jacklup.com  
 
 </p>
 
 
-<table width="100%">
-  <tr align="left">
-    <td valign="top" width="70%">
 
-<h3>👨‍💻 About Me</h3>
-
-- 🚀 Founder / CEO @ <a href="https://jacklup.com" target="_blank">Jacklup Solutions (Pvt) Ltd.</a>
-- 💻 Creative Specialist
-- 🎓 SLIIT | BSc (Hons) in IT
-- 📍 Colombo, Western Province, Sri Lanka.
-
-    </td>
-    <td valign="top" width="70%">
-
-<h3>📫 Contact</h3>
-
-- 📧 randimadilshaninfo@yahoo.com
-
-    </td>
-  </tr>
-</table>
-
-<br clear="both"/>
-
----
 
 <!-- SOCIAL -->
-<h3 align="center">🌐 Connect</h3>
+
 
 <p align="center">
 <a href="https://twitter.com/randima_dilshan" target="_blank">
