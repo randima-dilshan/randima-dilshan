@@ -34,26 +34,27 @@
 </p>
 
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<table width="100%">
+  <tr align="left">
+    <td valign="top" width="50%">
 
-  <div style="flex: 1;">
-    <h3>👨‍💻 About Me</h3>
-    <ul>
-      <li>🚀 Founder / CEO @ <a href="https://jacklup.com" target="_blank">Jacklup Solutions (Pvt) Ltd.</a></li>
-      <li>💻 Creative Specialist</li>
-      <li>🎓 SLIIT | BSc (Hons) in IT</li>
-      <li>📍 Colombo, Western Province, Sri Lanka.</li>
-    </ul>
-  </div>
+<h3>👨‍💻 About Me</h3>
 
-  <div style="flex: 1;">
-    <h3>📫 Contact</h3>
-    <ul>
-      <li>📧 randimadilshaninfo@yahoo.com</li>
-    </ul>
-  </div>
+- 🚀 Founder / CEO @ <a href="https://jacklup.com" target="_blank">Jacklup Solutions (Pvt) Ltd.</a>
+- 💻 Creative Specialist
+- 🎓 SLIIT | BSc (Hons) in IT
+- 📍 Colombo, Western Province, Sri Lanka.
 
-</div>
+    </td>
+    <td valign="top" width="50%">
+
+<h3>📫 Contact</h3>
+
+- 📧 randimadilshaninfo@yahoo.com
+
+    </td>
+  </tr>
+</table>
 
 <br clear="both"/>
 
