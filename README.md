@@ -34,9 +34,9 @@
 </p>
 
 
-<table width="full-width">
+<table width="100%">
   <tr align="left">
-    <td valign="top" width="50%">
+    <td valign="top" width="70%">
 
 <h3>👨‍💻 About Me</h3>
 
@@ -46,7 +46,7 @@
 - 📍 Colombo, Western Province, Sri Lanka.
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="70%">
 
 <h3>📫 Contact</h3>
 
