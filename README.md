@@ -97,10 +97,10 @@
 
 ---
 
-<!-- SNAKE -->
+<!-- SNAKE 
 <p align="center">
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
+</p>-->
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=To+See+The+World,;Things+Dangerous+To+Come,;To+Find+Each+Other+And+To+Feel.;That+Is+Life+.+.+.+.;+.+.+.;_Randima+Dilshan&center=true"></a>
