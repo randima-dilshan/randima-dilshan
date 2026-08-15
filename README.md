@@ -34,7 +34,7 @@
 </p>
 
 
-<table width="100%">
+<table width="full-width">
   <tr align="left">
     <td valign="top" width="50%">
 
